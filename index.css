@@ -9,3 +9,17 @@
     flex-direction: column;
     align-items: center;
 }
+
+#btn{
+    padding: 24px;
+    background-color: lightgrey;
+    border-radius: 16px;
+}
+
+#downloadLink{
+    color: black;
+}
+
+a{
+    text-decoration-line: none;
+}
